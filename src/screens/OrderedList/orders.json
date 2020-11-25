@@ -1,0 +1,42 @@
+[
+ {
+   "id": "00d6a-411d7-9ed9",
+   "shop": "KFC- Lê Văn Việt",
+   "address":"82/2D Đường 138",
+   "total": 43000,
+   "quantity":5,
+   "date":"12/08/2020"
+ },
+ {
+   "id": "00d26a-41d7-9ed9",
+   "shop": "KFC- Lê Văn Việt",
+   "address":"82/2D Đường 138",
+   "total": 43000,
+   "quantity":5,
+   "date":"12/08/2020"
+ },
+ {
+   "id": "00d6a-41d47-9ed9",
+   "shop": "KFC- Lê Văn Việt",
+   "address":"82/2D Đường 138",
+   "total": 43000,
+   "quantity":5,
+   "date":"12/08/2020"
+ },
+ {
+   "id": "00d6a-41d7-9ed93",
+   "shop": "KFC- Lê Văn Việt",
+   "address":"82/2D Đường 138",
+   "total": 43000,
+   "quantity":5,
+   "date":"12/08/2020"
+ },
+ {
+   "id": "00d6a-4112d7-9ed9",
+   "shop": "KFC- Lê Văn Việt",
+   "address":"82/2D Đường 138",
+   "total": 43000,
+   "quantity":5,
+   "date":"12/08/2020"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+   "id": "0dd0fe9c-0d6a-41d7-9ed9",
+   "name": "Gia vị",
+   "categoryId":1
+ },
+ {
+   "id": "0dd0fe9c-0d6a-9ed9-641e7bd632a5f",
+   "name": "Mỹ phẩm",
+   "categoryId":2
+ },
+  {
+   "id": "0dd0fe9c-41d7-9ed9-641e7bd632a5f",
+   "name": "Đồ hộp",
+   "categoryId":3
+ },
+  {
+   "id": "0dd0fe9c-0d6a-41d7-9ed9-641e7bd632a5f",
+   "name": "Bánh kẹo",
+   "categoryId":4
+ },
+  {
+   "id": "0d6a-41d7-9ed9-641e7bd632a5f",
+   "name": "Nước ngọt",
+   "categoryId":5
+ },
+  {
+   "id": "0dd0fe9c-0d6a-41d7-9ed9-641e7b2a5f",
+   "name": "Bia/rượu",
+   "categoryId":6
+ },
+  {
+   "id": "0dd0fe9c-0d6a-41d7-9ed9-632a5f",
+   "name": "Sữa",
+   "categoryId":7
+ },
+]
